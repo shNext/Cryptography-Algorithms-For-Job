@@ -8,3 +8,12 @@ furthermore, with the recent advance of quantum computing I'm also concentrating
 
 Language : Rust <br/>
 Reference : NIST <br/>
+
+## Objective
+
+I can read/understand crytographic algorithm requirements from formal manual </br>
+I can develop crytographic algorithm described in the manual </br>
+
+## Improvement
+
+Analytical/Logical Thinking </br>
