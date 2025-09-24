@@ -17,3 +17,21 @@ I can develop crytographic algorithm described in the manual </br>
 ## Improvement
 
 Analytical/Logical Thinking </br>
+
+## List
+
+Below topics are covered in this repository. <br/>
+concepts related with each topic are explained in https://www.nist.gov/cryptography. <br/>
+
+<p>
+- Block ciphers <br/>
+- Cryptographic hash algorithms <br/>
+- Key establishment <br/>
+- Post-quantum cryptography <br/>
+- Lightweight cryptography <br/>
+- Privacy-enhancing cryptography <br/>
+- Digital Signatures <br/>
+- Random Bit Generation <br/>
+</p>
+
+
