@@ -11,10 +11,11 @@ furthermore, with the recent advance of quantum computing I'm also concentrating
 I can read/understand crytographic algorithm requirements from formal manual </br>
 I can develop crytographic algorithm described in the manual </br>
 
-## Related Skill
+## Related Skill/Knowledge
 
 Rust language used for this activity and it's features <br/>
 Some tools for this activity <br/>
+Number/Probability theory for this activity
 
 ## Improvement
 
