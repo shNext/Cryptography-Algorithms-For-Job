@@ -8,7 +8,11 @@ furthermore, with the recent advance of quantum computing I'm also concentrating
 
 I think this activity has to be consisted of 3 or 4 chapters. <br/>
 and I want to write my thought about each chapter after doing the activity for it. <br/>
-lastly, maybe others nothing be changed except for details.
+lastly, maybe others nothing be changed except for details. <br/>
+
+what is the important thing when the reviewers at the company assess me? <br/>
+just, it to be appeared on eyes, I think it isnt the answer. the products from the technology also same. <br/>
+I need to find the balance for that starting from this.
 
 ## Objective
 
