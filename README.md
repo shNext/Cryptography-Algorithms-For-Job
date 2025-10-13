@@ -36,6 +36,14 @@ middle
 
 #### from ai
 
+explain the gain in perspective of information security when utilize the ai. <br/>
+how to combine the feature/advantage of ai with cryptography. <br/>
+how to change the cryptographic algorithms to the ai operations, specify the advantages of this project, even if the quantum computing is coming. <br/>
+how to maximize the on-device edge computing with this. <br/>
+comparing memory efficiency and usage between ai-combined or not cryptographic algorithms on embedded systems. <br/>
+how to encrypt/decrypt the data without the cryptographic key, specify how to do that. <br/>
+if it is possible, explain the gain in the enviroments considering private information security.
+
 ## Conclusion on Chapter #. Number
 
 ## Reference
