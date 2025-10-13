@@ -12,18 +12,29 @@ lastly, maybe others nothing be changed except for details. <br/>
 
 what is the important thing when the reviewers at the company assess me? <br/>
 just, it to be appeared on eyes, I think it isnt the answer. the products from the technology also same. <br/>
-I need to find the balance for that starting from this.
+I need to find the balance for that starting from this. <br/>
 
-## Objective
+Title : cryptographic algorithms development then fundamental thinking about the integration of cryptography with ai and its utilization in embedded systems. <br/>
+Purpose : same <br/>
+come : sourcecode, if there is time to write a paper then includes it. 
 
-I can read/understand crytographic algorithm requirements from formal manual </br>
-I can develop crytographic algorithm described in the manual </br>
+## Development Cycle
 
-## Related Skill/Knowledge
+#### how long this takes 
 
-Rust language used for this activity and it's features <br/>
-Some tools for this activity <br/>
-Number/Probability theory for this activity <br/>
+just do
+
+#### Project priority
+
+middle
+
+## Considerations
+
+#### from cryptography
+
+#### from quantum computing/cryptography
+
+#### from ai
 
 ## Conclusion on Chapter #. Number
 
