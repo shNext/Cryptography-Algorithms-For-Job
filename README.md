@@ -44,7 +44,10 @@ comparing memory efficiency and usage between ai-combined or not cryptographic a
 how to encrypt/decrypt the data without the cryptographic key, specify how to do that. <br/>
 if it is possible, explain the gain in the enviroments considering private information security. <br/>
 how to assess strength/security level of ai-combined algorithm, how to trust it. <br/>
-how to enhance strength of algorithm, attack-aware ai cryptographic algorithm, what is this. 
+how to enhance strength of algorithm, attack-aware ai cryptographic algorithm, what is this. <br/>
+define the meaning of attack about the ai-combined algorithm. <br/>
+attack-aware self-logic-transformation cryptographic algorithm. <br/>
+how to ensure the consistency of the algorithm.
 
 
 ## Conclusion on Chapter #. Number
