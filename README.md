@@ -47,8 +47,9 @@ how to assess strength/security level of ai-combined algorithm, how to trust it.
 how to enhance strength of algorithm, attack-aware ai cryptographic algorithm, what is this. <br/>
 define the meaning of attack about the ai-combined algorithm. <br/>
 attack-aware self-logic-transformation cryptographic algorithm. <br/>
-how to ensure the consistency of the algorithm.
-
+how to ensure the consistency of the algorithm. <br/>
+design attack-aware self-logic-transformation cryptographic algorithm. <br/>
+think about the effect from the quantum computing to this.
 
 ## Conclusion on Chapter #. Number
 
