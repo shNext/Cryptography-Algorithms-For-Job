@@ -42,7 +42,10 @@ how to change the cryptographic algorithms to the ai operations, specify the adv
 how to maximize the on-device edge computing with this. <br/>
 comparing memory efficiency and usage between ai-combined or not cryptographic algorithms on embedded systems. <br/>
 how to encrypt/decrypt the data without the cryptographic key, specify how to do that. <br/>
-if it is possible, explain the gain in the enviroments considering private information security.
+if it is possible, explain the gain in the enviroments considering private information security. <br/>
+how to assess strength/security level of ai-combined algorithm, how to trust it. <br/>
+how to enhance strength of algorithm, attack-aware ai cryptographic algorithm, what is this. 
+
 
 ## Conclusion on Chapter #. Number
 
