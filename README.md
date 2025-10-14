@@ -28,6 +28,22 @@ just do
 
 middle
 
+#### Approach for the modern algorithm
+
+based on the manual/document
+
+#### Approach for the concept of the attack-aware self-logic-transformation cryptographic algorithm
+
+top-down
+
+#### Approach for the design/implementation for the algorithm
+
+top-down and bottom-up, from scratch
+
+#### Approach for the quantum cryptography
+
+simulation-based and research on it.
+
 ## Considerations
 
 #### from cryptography
