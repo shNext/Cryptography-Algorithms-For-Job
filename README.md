@@ -32,6 +32,13 @@ middle
 
 #### from cryptography
 
+explain/describe the algorithm from ai is valid in perspective of cryptography. <br/>
+explain/prove/describe strength of the algorithm. <br/>
+define the conditions of input/output/parameters used in the algorithm comparing with modern cryptographic algorithm. <br/>
+how to measure the performance of algorithm. <br/>
+how to minimize the algorithm, how to reduce running-time and memory usage for embedded systems. <br/>
+how to enhance/transform strength of attack-aware.
+
 #### from quantum computing/cryptography
 
 #### from ai
