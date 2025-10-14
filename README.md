@@ -37,7 +37,9 @@ explain/prove/describe strength of the algorithm. <br/>
 define the conditions of input/output/parameters used in the algorithm comparing with modern cryptographic algorithm. <br/>
 how to measure the performance of algorithm. <br/>
 how to minimize the algorithm, how to reduce running-time and memory usage for embedded systems. <br/>
-how to enhance/transform strength of attack-aware.
+how to enhance/transform strength of attack-aware. <br/>
+does this algorithm have meaning in perspective of defending from quantum computing, if it is or not, explain about that specifically. <br/>
+where should I focus on the parts of the algorithm for security, find the reason and answer.
 
 #### from quantum computing/cryptography
 
