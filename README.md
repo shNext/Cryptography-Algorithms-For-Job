@@ -1,8 +1,8 @@
 ## Overview
 
-my friends, I need some time for the AI based cryptographic algorithm.
-I think that the time to check this algorithm has came.
-in this time, I will entirely look over design of this algorithm and remove unnecessary contents like definition of problem, etc.
+my friends, I need some time for the AI based cryptographic algorithm. <br/>
+I think that the time to check this algorithm has came. <br/>
+in this time, I will entirely look over design of this algorithm and remove unnecessary contents like definition of problem, etc. <br/>
 by doing so, I makes the document about design more elaborate because I have found a defect and also the document isn't good for reader.
 
 ## Development Cycle
