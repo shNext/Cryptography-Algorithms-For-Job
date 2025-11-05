@@ -9,23 +9,15 @@ by doing so, I makes the document about design more elaborate because I have fou
 
 #### how long this takes 
 
-just do
-
-#### Project priority
-
-middle
+remains 3 ~ 4 months
 
 #### Approach for the modern algorithm
 
 based on the manual/document
 
-#### Approach for the concept of the attack-aware self-logic-transformation cryptographic algorithm
+#### Approach for implementation of this algorithm
 
-top-down
-
-#### Approach for the design/implementation for the algorithm
-
-top-down and bottom-up, from scratch
+from scratch
 
 #### Approach for the quantum cryptography
 
@@ -35,7 +27,7 @@ simulation-based and research on it.
 
 #### from quantum computing/cryptography
 
-## Conclusion on Chapter #. Number
+## Conclusion on Chapter #
 
 ## Reference
 
