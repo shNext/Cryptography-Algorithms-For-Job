@@ -1,9 +1,10 @@
 ## Overview
 
-my friends, I need some time for the AI based cryptographic algorithm. <br/>
-I think that the time to check this algorithm has came. <br/>
-in this time, I will entirely look over design of this algorithm and remove unnecessary contents like definition of problem, etc. <br/>
-by doing so, I makes the document about design more elaborate because I have found a defect and also the document isn't good for reader.
+my friends, I have upload a file today. <br/>
+although there is no contents I think that the format of document will be fixed as same with this file. <br/>
+maybe upload will be on next week or if it needs more time to enrich this document then can be delayed. <br/>
+<br/>
+have a good day and see you next.
 
 ## Development Cycle
 
