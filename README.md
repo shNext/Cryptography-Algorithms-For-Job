@@ -1,10 +1,6 @@
 ## Overview
 
-my friends, I have upload a file today. <br/>
-although there is no contents I think that the format of document will be fixed as same with this file. <br/>
-maybe upload will be on next week or if it needs more time to enrich this document then can be delayed. <br/>
-<br/>
-have a good day and see you next.
+my friends, I need more time. 😄 <br/>
 
 ## Development Cycle
 
